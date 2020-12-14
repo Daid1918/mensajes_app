@@ -10,7 +10,7 @@ public class Inicio {
 try(Connection cnx = conexion.getConexion()){
 
     }catch (Exception e) {
-        System.out.println(e);
+        System.out.println("Tienes un error-->"+e);
     }
     }
 }
