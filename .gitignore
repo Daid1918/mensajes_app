@@ -21,4 +21,5 @@ resource/
 *.tar.gz
 *.rar
 
+.netbeans_automatic_build
 
