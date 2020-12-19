@@ -17,8 +17,8 @@ public class Inicio {
     		System.out.println("Aplicacion de mensajes");
     		System.out.println("1.Crear mensaje");
     		System.out.println("2.Listar mensajes");
-    		System.out.println("3.Editar mensaje");
-    		System.out.println("4.Eliminar mensaje");
+    		System.out.println("3.Borrar mensaje");
+    		System.out.println("4.Editar mensaje");
     		System.out.println("5.Salir");
     		//Leemos la opcion del usuuario
 
